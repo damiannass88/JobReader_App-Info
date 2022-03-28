@@ -24,7 +24,9 @@ It uses the following features and elements, which include:
   JobReader program was designed to automate office processes (Robotic Process Automation, RPA), in the machinery and production sector. The first test version was very well appreciated in the German factory preparing transport vehicles. The first assumptions of the program was to handle a set of tasks for production (daily updated list of about 8,000 items) and sorting it according to many specifications of the items, finding the components of the item ( stock number of semi-manufactured products, files of a given ID "pdf, vector files: geo, dxf") and after selecting the composition of the task, generating a Job file (xml format, task file for TruTops software, CNC programming platform), with the items to be programmed on the production machines. Let me add, that previously these jobs were entered manually from a printed paper list, without any support for automatic file searching and data version checking, which took the cnc programmer 360 % more time. Another assumption was a user-friendly interface with the possibility of customizing backgrounds, changing the contrast and supporting multiple tabs/tasks at the same time. Subsequently, the program was extended by further "production planning and control" modules, e.g. for the preparation of orders for the production departments bending, welding and logistics, including QR-Code generation, as well as the individual automation of AV office printouts (Auftragsvorbereitung) and data control. 
 
 YouTube Presentation: https://www.youtube.com/watch?v=91mFSdgIVu4
-<b>For Source Code: Please contact me..</b>
+
+<b>Access to Source Code: Please contact me.</b>
+
 
 (Polish version):
 
@@ -57,7 +59,9 @@ YouTube Prezentacja: https://www.youtube.com/watch?v=91mFSdgIVu4
 
 ![Screenshot - 28_03](https://user-images.githubusercontent.com/55595642/160404702-6e08bdf2-f707-4418-88db-133ac7304749.png)
 
-Dostęp do Kodu źródłowego: Proszę o kontakt.
+
+<b>Dostęp do Kodu źródłowego: Proszę o kontakt.</b>
+
 Lisense/Licencja: Trial (File: TRIAL LICENSE_JobReader.txt).
 
 -Adwers.com, Damian Nass
